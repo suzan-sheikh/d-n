@@ -17,7 +17,7 @@ const HomeLayouts = () => {
           <Navbar></Navbar>
         </nav>
       </header>
-      <main className="w-11/12 my-5 mx-auto *:border grid grid-cols-12">
+      <main className="w-11/12 my-5 mx-auto grid grid-cols-12">
         <section className="col-span-3">
           <LeftAside></LeftAside>
         </section>
